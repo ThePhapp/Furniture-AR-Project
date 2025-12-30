@@ -2,6 +2,8 @@
 
 This project is a modern furniture e-commerce platform featuring Augmented Reality (AR) product viewing for Luna Shop.
 
+Demo: http://157.173.127.217:9080/
+
 ### Key Features
 - AR model viewer for furniture products (GLB/USDZ)
 - Mobile-friendly AR experience (WebXR, ARCore, ARKit)
